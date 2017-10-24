@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friend finder",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike-C25/friendfinder.git"
+  },
+  "author": "Mike-C25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike-C25/friendfinder/issues"
+  },
+  "homepage": "https://github.com/Mike-C25/friendfinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
